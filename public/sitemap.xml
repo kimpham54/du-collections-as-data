@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/collections-as-data-services/</loc>
+    <loc>https://kind-nightingale-23b492.netlify.com/collections-as-data-services/</loc>
     <lastmod>2019-05-30T10:43:51-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2019-05-30T10:43:51-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/archivesspace/</loc>
+    <loc>https://kind-nightingale-23b492.netlify.com/tags/</loc>
     <lastmod>2019-05-30T10:43:51-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/services/</loc>
+    <loc>https://kind-nightingale-23b492.netlify.com/tags/archivesspace/</loc>
     <lastmod>2019-05-30T10:43:51-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://kind-nightingale-23b492.netlify.com/tags/services/</loc>
+    <lastmod>2019-05-30T10:43:51-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kind-nightingale-23b492.netlify.com/</loc>
     <lastmod>2019-05-30T12:30:55-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://kind-nightingale-23b492.netlify.com/about/</loc>
     <lastmod>2019-05-30T10:43:51-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://kind-nightingale-23b492.netlify.com/post/</loc>
     <lastmod>2019-05-30T10:10:11-06:00</lastmod>
   </url>
   

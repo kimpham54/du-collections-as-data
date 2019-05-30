@@ -12,3 +12,5 @@ University of Denver Collections as Data team:
 * Fernando Reyes
 * Jeff Rynhart
 * Alice Tarrant
+
+Logo attribution: Handwriting Detection by Ben Davis from the Noun Project
