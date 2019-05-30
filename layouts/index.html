@@ -1,5 +1,10 @@
 {{ define "main" }}
   <main id="main">
+    <head>
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
+    </head>
     <h1>{{ .Title }}</h1>
     <ul class="patterns-list">
     {{ range .Pages.ByPublishDate.Reverse }}
@@ -12,7 +17,7 @@
             {{ .Title }}
           </a>
         </h2>
-      </li>        
+      </li>
     {{ end }}
     </ul>
   </main>
