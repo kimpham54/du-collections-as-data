@@ -1,3 +1,5 @@
 publish = "docs"
 command = "hugo"
-[build.environment]  HUGO_VERSION = "0.33"
+
+[build.environment]
+HUGO_VERSION = "0.55.5"
