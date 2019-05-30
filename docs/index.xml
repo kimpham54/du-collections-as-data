@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections as Data at the University of Denver on DU Collections as Data</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Collections as Data at the University of Denver on DU Collections as Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Managing Collections as Data services: the 14,000-foot view</title>
+      <link>https://example.com/collections-as-data-services/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/collections-as-data-services/</guid>
+      <description>image credit: &#34;Grays and Torreys Peaks 2006-08-06,&#34; by Flickr user [Daidipya](https://www.flickr.com/people/16157855@N00), from Wikimedia Commons; CC-BY 2.0 My name is Kevin Clair and I am the Digital Collections Librarian at the University of Denver. I manage the Digital Collections Services unit in the University Libraries; in brief, we are responsible for the technical services side of Special Collections and Archives, including the Beck Archives of Rocky Mountain Jewish History, where the source materials for our Collections as Data project &amp;ndash; the Jewish Consumptives&amp;rsquo; Relief Society (JCRS) Records &amp;ndash; are housed.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>University of Denver Collections as Data team:
+ Jeanne Abrams Kevin Clair Jack Manness Kim Pham Fernando Reyes Jeff Rynhart Alice Tarrant  </description>
+    </item>
+    
+  </channel>
+</rss>
