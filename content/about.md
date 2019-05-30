@@ -3,14 +3,12 @@ date: "2014-04-09"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+University of Denver Collections as Data team:
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* Jeanne Abrams
+* [Kevin Clair](https://www.twitter.com/jackflaps)
+* Jack Manness
+* [Kim Pham](https://www.twitter.com/tolloid)
+* Fernando Reyes
+* Jeff Rynhart
+* Alice Tarrant

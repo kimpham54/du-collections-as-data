@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Cupper"
+title = "DU Collections as Data"
 theme = "cupper-hugo-theme"
 googleAnalytics = "UA-123456789-1"
 disqusShortname = "yourdiscussshortname"
@@ -17,9 +17,9 @@ enableGitInfo = true
   quality = 99
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  description = "DU Collections as Data"
+  homeMetaContent = "DU Collections as Data"
+  footer = "DU Collections as Data"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"

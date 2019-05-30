@@ -1,20 +1,15 @@
 ---
-date: "2014-04-02"
-tags: ["hugo", "git", "fun"]
-title: "Getting Started with Hugo"
+date: "2019-05-29"
+tags: ["services", "archivesspace"]
+title: "Managing Collections as Data services: the 14,000-foot view"
+author: "Kevin Clair"
 ---
 
-# Managing Collections as Data services: the 14,000-foot view
-
-<div class="wp-block-image">
-
-<figure class="aligncenter is-resized">!["Grays and Torreys Peaks 2006-08-06," by Flickr user Daidipya](https://upload.wikimedia.org/wikipedia/commons/7/73/Grays_and_Torreys_Peaks_2006-08-06.jpg)
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Grays_and_Torreys_Peaks_2006-08-06.jpg"/></p>
 
 <figcaption>image credit: "Grays and Torreys Peaks 2006-08-06," by Flickr user [Daidipya](https://www.flickr.com/people/16157855@N00), from Wikimedia Commons; CC-BY 2.0</figcaption>
 
-</figure>
-
-</div>
 
 My name is Kevin Clair and I am the Digital Collections Librarian at the University of Denver. I manage the Digital Collections Services unit in the University Libraries; in brief, we are responsible for the technical services side of Special Collections and Archives, including the Beck Archives of Rocky Mountain Jewish History, where the source materials for our Collections as Data project -- the [Jewish Consumptives' Relief Society (JCRS) Records](https://duarchives.coalliance.org/repositories/2/resources/496) -- are housed. In this post I'll talk about some of the opportunities and challenges of incorporating Collections as Data services into my work as a department manager in the library.
 
