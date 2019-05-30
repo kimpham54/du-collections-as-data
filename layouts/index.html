@@ -7,7 +7,7 @@
     </head>
     <h1>{{ .Title }}</h1>
     <ul class="patterns-list">
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ range where .Pages ".Params.title" "!=" nil }}
       <li>
         <h2>
           <a href="{{ .Permalink }}">
