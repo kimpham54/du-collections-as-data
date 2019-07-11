@@ -6,17 +6,26 @@
     <description>Recent content in services on DU Collections as Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://du-collections-as-data.netlify.com/tags/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Prepwork for Handwritten Text Recognition</title>
+      <link>https://du-collections-as-data.netlify.com/002-htr-training/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/002-htr-training/</guid>
+      <description>image credit: Ira M. and Peryle Hayutin Beck Memorial Archives, University of Denver My name is Alice Tarrant and I am the Digitization Coordinator at the University of Denver. I manage the digitization and treatment of library materials at the Anderson Academic Commons. Recently my employees and I have been working on the HTR (Handwritten Text Recognition) of the JCRS collection. In this post I will describe the technical side of HTR using Transkribus, as well as some of the challenges we have encountered thus far.</description>
+    </item>
+    
+    <item>
       <title>Managing Collections as Data services: the 14,000-foot view</title>
-      <link>https://du-collections-as-data.netlify.com/collections-as-data-services/</link>
+      <link>https://du-collections-as-data.netlify.com/001-collections-as-data-services/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://du-collections-as-data.netlify.com/collections-as-data-services/</guid>
+      <guid>https://du-collections-as-data.netlify.com/001-collections-as-data-services/</guid>
       <description>image credit: &#34;Grays and Torreys Peaks 2006-08-06,&#34; by Flickr user [Daidipya](https://www.flickr.com/people/16157855@N00), from Wikimedia Commons; CC-BY 2.0 My name is Kevin Clair and I am the Digital Collections Librarian at the University of Denver. I manage the Digital Collections Services unit in the University Libraries; in brief, we are responsible for the technical services side of Special Collections and Archives, including the Beck Archives of Rocky Mountain Jewish History, where the source materials for our Collections as Data project &amp;ndash; the Jewish Consumptives&amp;rsquo; Relief Society (JCRS) Records &amp;ndash; are housed.</description>
     </item>
     
