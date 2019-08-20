@@ -18,4 +18,6 @@ https://www.netlifycms.org/docs/add-to-your-site/
 
 ```hugo server``` to test
 
+then the standard git workflow to publish. netlify will automatically build
+
 /layouts/index.html - main page customization, overrides /themes/cupper-hugo-theme/layouts/index.html

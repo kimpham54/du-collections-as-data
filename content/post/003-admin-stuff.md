@@ -18,7 +18,7 @@ The manager in me thinks this outreach and advocacy work is important for us not
 More specific to our institution, I am also thinking and planning about how integrating collections as data will align closely with our department’s work, and how it will fit into our technology infrastructure. [Kevin mentioned in his post](https://du-collections-as-data.netlify.com/001-collections-as-data-services/) that we are have been building our digital collections infrastructure, which is an integration of Archivematica (preservation services) + Duracloud (storage) + Kaltura (media streaming) + nodejs frontend + nodejs backend admin.
 
 <p align="center"><img src="../../images/201908-digitaldu.png"/></p>
-<figcaption>Layout analysis in Transkribus. Transkribus automatically detects baselines and text areas, we do some manual correction. Image credit: Ira M. and Peryle Hayutin Beck Memorial Archives, University of Denver</figcaption>
+<figcaption>University of Denver's digital repository architecture. HTR transcripts will be indexed in Elasticsearch, data will be accessed through the repository frontend.</figcaption>
 
 To me it’s a pretty standard design in terms of meeting the general use cases of digital repositories, where you have storage, retrieval, curatorial services, and means to access the digital objects. The access part is similar to that of an exhibition or a traditional library catalogue, where you search and retrieve objects, can browse, view, and download them. Then when I first read the collections as data CFP one paragraph stuck out for me:
 
