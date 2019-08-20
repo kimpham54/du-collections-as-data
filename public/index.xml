@@ -17,7 +17,8 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://du-collections-as-data.netlify.com/002-htr-training/</guid>
-      <description>image credit: Ira M. and Peryle Hayutin Beck Memorial Archives, University of Denver My name is Alice Tarrant and I am the Digitization Coordinator at the University of Denver. I manage the digitization and treatment of library materials at the Anderson Academic Commons. Recently my employees and I have been working on the HTR (Handwritten Text Recognition) of the JCRS collection. In this post I will describe the technical side of HTR using Transkribus, as well as some of the challenges we have encountered thus far.</description>
+      <description>Sample of a handwritten document written by Dr. Charles Spivak. Image credit: Ira M. and Peryle Hayutin Beck Memorial Archives, University of Denver
+My name is Alice Tarrant and I am the Digitization Coordinator at the University of Denver. I manage the digitization and treatment of library materials at the Anderson Academic Commons. Recently my employees and I have been working on the HTR (Handwritten Text Recognition) of the JCRS collection.</description>
     </item>
     
     <item>
@@ -46,6 +47,15 @@
       
       <guid>https://du-collections-as-data.netlify.com/admin/</guid>
       <description>   Content Manager      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://du-collections-as-data.netlify.com/003-admin-stuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/003-admin-stuff/</guid>
+      <description>My name is Kim Pham and I am the IT Librarian in the Library Technology Services department at the University of Denver Main Library. My role in our collections as data project is largely that of a project manager&amp;rsquo;s - I coordinate the various goings on and do some of the high-level design and specification work to create our digital collections as data. If you haven&amp;rsquo;t read any of the other blog posts, more specifically we&amp;rsquo;re focusing on producing machine-readable transcripts from the Jewish Consumptives Relief Society records, a series of handwritten medical documents application letters, cheques, and more.</description>
     </item>
     
   </channel>

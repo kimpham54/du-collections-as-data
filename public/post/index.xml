@@ -16,7 +16,8 @@
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://du-collections-as-data.netlify.com/002-htr-training/</guid>
-      <description>image credit: Ira M. and Peryle Hayutin Beck Memorial Archives, University of Denver My name is Alice Tarrant and I am the Digitization Coordinator at the University of Denver. I manage the digitization and treatment of library materials at the Anderson Academic Commons. Recently my employees and I have been working on the HTR (Handwritten Text Recognition) of the JCRS collection. In this post I will describe the technical side of HTR using Transkribus, as well as some of the challenges we have encountered thus far.</description>
+      <description>Sample of a handwritten document written by Dr. Charles Spivak. Image credit: Ira M. and Peryle Hayutin Beck Memorial Archives, University of Denver
+My name is Alice Tarrant and I am the Digitization Coordinator at the University of Denver. I manage the digitization and treatment of library materials at the Anderson Academic Commons. Recently my employees and I have been working on the HTR (Handwritten Text Recognition) of the JCRS collection.</description>
     </item>
     
     <item>
@@ -26,6 +27,15 @@
       
       <guid>https://du-collections-as-data.netlify.com/001-collections-as-data-services/</guid>
       <description>image credit: &#34;Grays and Torreys Peaks 2006-08-06,&#34; by Flickr user [Daidipya](https://www.flickr.com/people/16157855@N00), from Wikimedia Commons; CC-BY 2.0 My name is Kevin Clair and I am the Digital Collections Librarian at the University of Denver. I manage the Digital Collections Services unit in the University Libraries; in brief, we are responsible for the technical services side of Special Collections and Archives, including the Beck Archives of Rocky Mountain Jewish History, where the source materials for our Collections as Data project &amp;ndash; the Jewish Consumptives&amp;rsquo; Relief Society (JCRS) Records &amp;ndash; are housed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://du-collections-as-data.netlify.com/003-admin-stuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/003-admin-stuff/</guid>
+      <description>My name is Kim Pham and I am the IT Librarian in the Library Technology Services department at the University of Denver Main Library. My role in our collections as data project is largely that of a project manager&amp;rsquo;s - I coordinate the various goings on and do some of the high-level design and specification work to create our digital collections as data. If you haven&amp;rsquo;t read any of the other blog posts, more specifically we&amp;rsquo;re focusing on producing machine-readable transcripts from the Jewish Consumptives Relief Society records, a series of handwritten medical documents application letters, cheques, and more.</description>
     </item>
     
   </channel>

@@ -4,41 +4,41 @@
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/002-htr-training/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/tags/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/tags/htr/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/tags/services/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/tags/training/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/001-collections-as-data-services/</loc>
-    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/tags/archivesspace/</loc>
-    <lastmod>2019-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -54,6 +54,11 @@
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/admin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/003-admin-stuff/</loc>
     <priority>0</priority>
   </url>
   
