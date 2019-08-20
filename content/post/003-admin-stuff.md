@@ -1,7 +1,7 @@
 ---
 date: "2019-08-20"
 tags: ["planning", "administration", "community"]
-title: "Strategic Planning for Adopting Handwritten Text Recognition"
+title: "Strategic Planning for Adopting Collections as Data"
 author: "Kim Pham"
 ---
 
