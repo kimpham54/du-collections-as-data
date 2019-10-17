@@ -6,10 +6,55 @@
     <description>Recent content in Tags on DU Collections as Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://du-collections-as-data.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>administration</title>
+      <link>https://du-collections-as-data.netlify.com/tags/administration/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/tags/administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethics</title>
+      <link>https://du-collections-as-data.netlify.com/tags/ethics/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://du-collections-as-data.netlify.com/tags/privacy/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>https://du-collections-as-data.netlify.com/tags/community/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planning</title>
+      <link>https://du-collections-as-data.netlify.com/tags/planning/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/tags/planning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>htr</title>

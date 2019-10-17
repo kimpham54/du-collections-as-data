@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethics on DU Collections as Data</title>
+    <link>https://du-collections-as-data.netlify.com/tags/ethics/</link>
+    <description>Recent content in ethics on DU Collections as Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://du-collections-as-data.netlify.com/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thinking through principles, privacy and ethics for our collections as data</title>
+      <link>https://du-collections-as-data.netlify.com/004-ethics/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/004-ethics/</guid>
+      <description>JCRS nurses and patients
+My name is Jack Maness. I’m an Associate Dean at the University of Denver Libraries, and my role in the Collections as Data project here at DU is essentially one of administrative support. Toward that end, I am committed to providing the team what it needs to not only meet its goals during the course of the funded work, but beyond; and doing so in such a way that we contribute to the larger research and learning community interested in analyzing collections as data, and using it to further our understanding of ourselves, one another, and our world.</description>
+    </item>
+    
+  </channel>
+</rss>

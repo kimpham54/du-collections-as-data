@@ -12,6 +12,25 @@
     
     
     <item>
+      <title>Thinking through principles, privacy and ethics for our collections as data</title>
+      <link>https://du-collections-as-data.netlify.com/004-ethics/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/004-ethics/</guid>
+      <description>JCRS nurses and patients
+My name is Jack Maness. I’m an Associate Dean at the University of Denver Libraries, and my role in the Collections as Data project here at DU is essentially one of administrative support. Toward that end, I am committed to providing the team what it needs to not only meet its goals during the course of the funded work, but beyond; and doing so in such a way that we contribute to the larger research and learning community interested in analyzing collections as data, and using it to further our understanding of ourselves, one another, and our world.</description>
+    </item>
+    
+    <item>
+      <title>Strategic Planning for Adopting Collections as Data</title>
+      <link>https://du-collections-as-data.netlify.com/003-admin-stuff/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://du-collections-as-data.netlify.com/003-admin-stuff/</guid>
+      <description>My name is Kim Pham and I am the IT Librarian in the Library Technology Services department at the University of Denver Main Library. My role in our collections as data project is largely that of a project manager&amp;rsquo;s - I coordinate the various goings on and do some of the high-level design and specification work to create our digital collections as data. If you haven&amp;rsquo;t read any of the other blog posts, more specifically we&amp;rsquo;re focusing on producing machine-readable transcripts from the Jewish Consumptives Relief Society records, a series of handwritten medical documents application letters, cheques, and more.</description>
+    </item>
+    
+    <item>
       <title>Prepwork for Handwritten Text Recognition</title>
       <link>https://du-collections-as-data.netlify.com/002-htr-training/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
@@ -47,15 +66,6 @@ My name is Alice Tarrant and I am the Digitization Coordinator at the University
       
       <guid>https://du-collections-as-data.netlify.com/admin/</guid>
       <description>   Content Manager      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://du-collections-as-data.netlify.com/003-admin-stuff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://du-collections-as-data.netlify.com/003-admin-stuff/</guid>
-      <description>My name is Kim Pham and I am the IT Librarian in the Library Technology Services department at the University of Denver Main Library. My role in our collections as data project is largely that of a project manager&amp;rsquo;s - I coordinate the various goings on and do some of the high-level design and specification work to create our digital collections as data. If you haven&amp;rsquo;t read any of the other blog posts, more specifically we&amp;rsquo;re focusing on producing machine-readable transcripts from the Jewish Consumptives Relief Society records, a series of handwritten medical documents application letters, cheques, and more.</description>
     </item>
     
   </channel>

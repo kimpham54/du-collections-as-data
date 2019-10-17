@@ -3,14 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://du-collections-as-data.netlify.com/002-htr-training/</loc>
-    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
+    <loc>https://du-collections-as-data.netlify.com/tags/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://du-collections-as-data.netlify.com/tags/</loc>
-    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
+    <loc>https://du-collections-as-data.netlify.com/004-ethics/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/tags/administration/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/tags/ethics/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/tags/privacy/</loc>
+    <lastmod>2019-10-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/003-admin-stuff/</loc>
+    <lastmod>2019-08-20T12:19:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/tags/community/</loc>
+    <lastmod>2019-08-20T12:19:19-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/tags/planning/</loc>
+    <lastmod>2019-08-20T12:19:19-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://du-collections-as-data.netlify.com/002-htr-training/</loc>
+    <lastmod>2019-07-11T15:54:09-06:00</lastmod>
   </url>
   
   <url>
@@ -54,11 +94,6 @@
   
   <url>
     <loc>https://du-collections-as-data.netlify.com/admin/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://du-collections-as-data.netlify.com/003-admin-stuff/</loc>
     <priority>0</priority>
   </url>
   
